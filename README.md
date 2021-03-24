@@ -53,6 +53,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 ## Bachelor of Science — University of Toronto
 #### 09/2018 - Current
 - Majoring in Economics and Statistics with a Minor in Mathematics
+
 ## High School Diploma — Father John Redmond, CSS
 #### 09/2014 - 09/2018
 
