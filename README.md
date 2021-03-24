@@ -59,8 +59,11 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 # AWARDS
 **University of Toronto Scholar’s Award**
 - Entrance Scholarship
+
 **Reuben Wells Leonard Scholarship**
+
 **Calculus AB Advanced Placement Certificate**
+
 **Grade 12 Data Management Subject Award**
 
 
