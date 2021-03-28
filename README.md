@@ -37,6 +37,12 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
 
+# About Me
+
+Highly motivated individual with strong work ethic and ability to work in a rapidly changing environment. Exceptional organizational and communication skills with experience in improving processes.
+
+
+
 # WORK HISTORY
 ## Scholar's Choice - Sales Associate
 #### 06/2019 - 06/2020
