@@ -67,4 +67,15 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 **Grade 12 Data Management Subject Award**
 
+## PROJECTS
+
+#### Co-Author - [2020 US Elections Forecast](https://github.com/jordanregis/PS4)
+##### November 2020
+- Along with a team, made an accurate prediction on the outcome of the 2020 US Election
+- Used a multilevel logistic regression anakysis with post-stratification for forecasting
+
+#### Analyst - Spotify API Analysis; [What Makes a Hit Song Today](https://github.com/jordanregis/PS5)
+##### December 2020
+- Using Spotify's API data, designed a regression model to analyze trends in song popularity based on various musical attributes
+
 
