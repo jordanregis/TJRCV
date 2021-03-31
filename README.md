@@ -78,11 +78,11 @@ Highly motivated individual with strong work ethic and ability to work in a rapi
 #### Co-Author - [2020 US Elections Forecast](https://github.com/jordanregis/PS4)
 ##### November 2020
 - Along with a team, made an accurate prediction on the outcome of the 2020 US Election
-- Used a multilevel logistic regression anakysis with post-stratification for forecasting
+- Used a multilevel logistic regression analysis with post-stratification for forecasting
 
 #### Analyst - Spotify API Analysis; [What Makes a Hit Song Today](https://github.com/jordanregis/STA304PS5)
 ##### December 2020
 - Using Spotify's API data, designed a regression model to analyze trends in song popularity based on various musical attributes
 
-<span style="color:red">some **This is Red Bold.** text</span>
+<span style="color:red"> Hello World </span>
 
