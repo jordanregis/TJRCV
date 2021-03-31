@@ -1,13 +1,3 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/jordanregis/digital-cv1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
 ```markdown
 Syntax highlighted code block
 
@@ -41,7 +31,12 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 Highly motivated individual with strong work ethic and ability to work in a rapidly changing environment. Exceptional organizational and communication skills with experience in improving processes.
 
-
+<span style="color:red"> # Skills </span>
+- Experienced Programming in R
+- Statistical Analysis
+- Data Cleaning and Organization
+- Customer Service
+- Microsoft Office Tools
 
 # WORK HISTORY
 ## Scholar's Choice - Sales Associate
@@ -78,7 +73,7 @@ Highly motivated individual with strong work ethic and ability to work in a rapi
 #### Co-Author - [2020 US Elections Forecast](https://github.com/jordanregis/PS4)
 ##### November 2020
 - Along with a team, made an accurate prediction on the outcome of the 2020 US Election
-- Used a multilevel logistic regression analysis with post-stratification for forecasting
+- Applied a multilevel logistic regression analysis with post-stratification for forecasting
 
 #### Analyst - Spotify API Analysis; [What Makes a Hit Song Today](https://github.com/jordanregis/STA304PS5)
 ##### December 2020
