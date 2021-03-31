@@ -31,7 +31,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 Highly motivated individual with strong work ethic and ability to work in a rapidly changing environment. Exceptional organizational and communication skills with experience in improving processes.
 
-<span style="color:red"> # Skills </span>
+# <span style="color:blue"> Skills </span>
 - Experienced Programming in R
 - Statistical Analysis
 - Data Cleaning and Organization
