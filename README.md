@@ -84,4 +84,5 @@ Highly motivated individual with strong work ethic and ability to work in a rapi
 ##### December 2020
 - Using Spotify's API data, designed a regression model to analyze trends in song popularity based on various musical attributes
 
+<span style="color:red">some **This is Red Bold.** text</span>
 
