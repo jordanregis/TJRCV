@@ -38,7 +38,7 @@ Highly motivated individual with strong work ethic and ability to excel in a rap
 - Customer Service
 - Microsoft Office Tools
 
-# <span style="color:midnightblue"> WORK HISTORY </span>
+# <span style="color:royalblue"> WORK HISTORY </span>
 ## Scholar's Choice - Sales Associate
 #### Toronto, ON • 06/2019 - 06/2020
 - Assisted over 25 customers per day with product questions, selections, and made specific recommendations aligning with individual needs and specifications
@@ -50,7 +50,7 @@ Highly motivated individual with strong work ethic and ability to excel in a rap
 - Restocked, arranged and organized merchandise in front lanes to drive product sales
 - Counted cash in register drawer to balance register at beginning and end of shift
 
-# <span style="color:navy"> EDUCATION </span>
+# <span style="color:royalblue"> EDUCATION </span>
 ## Bachelor of Science — University of Toronto
 #### 09/2018 - Current
 - Majoring in Economics and Statistics with a Minor in Mathematics
@@ -58,7 +58,7 @@ Highly motivated individual with strong work ethic and ability to excel in a rap
 ## High School Diploma — Father John Redmond, CSS
 #### 09/2014 - 09/2018
 
-# <span style="color:royalblue"> AWARDS </span>
+# <p><b><span style="color:royalblue"> AWARDS </span></b></p>
 **University of Toronto Scholar’s Award**
 - Entrance Scholarship
 
