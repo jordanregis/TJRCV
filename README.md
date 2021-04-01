@@ -58,7 +58,7 @@ Highly motivated individual with strong work ethic and ability to excel in a rap
 ## High School Diploma — Father John Redmond, CSS
 #### 09/2014 - 09/2018
 
-# <b><span style="color:royalblue"> AWARDS </span></b>
+# <span style="color:royalblue"> **AWARDS** </span>
 **University of Toronto Scholar’s Award**
 - Entrance Scholarship
 
