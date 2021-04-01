@@ -27,7 +27,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
 
-# About Me
+# <span style="color:steelblue"> About Me </span>
 
 Highly motivated individual with strong work ethic and ability to excel in a rapidly changing environment. Exceptional organizational and communication skills with experience in improving processes.
 
@@ -38,7 +38,7 @@ Highly motivated individual with strong work ethic and ability to excel in a rap
 - Customer Service
 - Microsoft Office Tools
 
-# <span style="color:royalblue"> WORK HISTORY </span>
+# <span style="color:steelblue"> WORK HISTORY </span>
 ## Scholar's Choice - Sales Associate
 #### Toronto, ON • 06/2019 - 06/2020
 - Assisted over 25 customers per day with product questions, selections, and made specific recommendations aligning with individual needs and specifications
@@ -49,16 +49,18 @@ Highly motivated individual with strong work ethic and ability to excel in a rap
 - Helped customers complete purchases, locate items and join reward programs to promote loyalty, satisfaction and sales numbers
 - Restocked, arranged and organized merchandise in front lanes to drive product sales
 - Counted cash in register drawer to balance register at beginning and end of shift
+<br><br>
 
-# <span style="color:royalblue"> EDUCATION </span>
+# <span style="color:steelblue"> EDUCATION </span>
 ## Bachelor of Science — University of Toronto
 #### 09/2018 - Current
 - Majoring in Economics and Statistics with a Minor in Mathematics
 
 ## High School Diploma — Father John Redmond, CSS
 #### 09/2014 - 09/2018
+<br><br>
 
-# <span style="color:royalblue"> **AWARDS** </span>
+# <span style="color:steelblue"> **AWARDS** </span>
 **University of Toronto Scholar’s Award**
 - Entrance Scholarship
 
@@ -67,6 +69,7 @@ Highly motivated individual with strong work ethic and ability to excel in a rap
 **Calculus AB Advanced Placement Certificate**
 
 **Grade 12 Data Management Subject Award**
+<br><br>
 
 ## <span style="color:darkmagenta"> PROJECTS </span>
 
