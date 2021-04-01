@@ -58,7 +58,7 @@ Highly motivated individual with strong work ethic and ability to excel in a rap
 ## High School Diploma — Father John Redmond, CSS
 #### 09/2014 - 09/2018
 
-# <p><b><span style="color:royalblue"> AWARDS </span></b></p>
+# <b><span style="color:royalblue"> AWARDS </span></b>
 **University of Toronto Scholar’s Award**
 - Entrance Scholarship
 
@@ -74,10 +74,11 @@ Highly motivated individual with strong work ethic and ability to excel in a rap
 ##### November 2020
 - Along with a team, made an accurate prediction on the outcome of the 2020 US Election
 - Applied a multilevel logistic regression analysis with post-stratification for forecasting
+- <b> Technologies Used: </b> R, GitHub
 
 #### Analyst - Spotify API Analysis; [What Makes a Hit Song Today](https://github.com/jordanregis/STA304PS5/blob/main/Outputs/SpotifyPaper.pdf)
 ##### December 2020
 - Designed a regression model to analyze trends in song popularity based on various musical attributes from Spotify's API
 - Wrote an extensive report covering the findings
-
+- <b> Technologies Used: </b> R, GitHub
 
