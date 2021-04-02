@@ -29,23 +29,24 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 # <span style="color:steelblue"> About Me </span>
 
-  Highly motivated individual with strong work ethic and ability to excel in a rapidly changing environment. Exceptional organizational and communication skills with experience in improving processes. Thorough analytical and computational background with an enthusiasm for data exploration and making reports.
+  Highly motivated student with strong work ethic and ability to excel in a rapidly changing environment. Exceptional organizational and communication skills and experienced in improving processes. Thorough analytical and computational background with an enthusiasm for data exploration and creating reports.
 
 # <span style="color:steelblue"> Skills </span>
 - Experienced Programming in R
 - Statistical Analysis
+- GitHub and HTML Writing
 - Data Cleaning and Organization
 - Collaboration and Communication
 - Customer Service
 - Microsoft Office Tools
 
 # <span style="color:steelblue"> WORK HISTORY </span>
-## <span style="color:lightskyblue"> Scholar's Choice - Sales Associate </span>
+## <span style="color:lightsteelblue"> Scholar's Choice - Sales Associate </span>
 #### Toronto, ON • 06/2019 - 06/2020
 - Assisted over 25 customers per day with product questions, selections, and made specific recommendations aligning with individual needs and specifications
 - Maintained records related to sales, returns and inventory availability
 
-## <span style="color:lightskyblue"> Shoppers Drug Mart / Pharmaprix - Cashier and Merchandiser </span>
+## <span style="color:lightsteelblue"> Shoppers Drug Mart / Pharmaprix - Cashier and Merchandiser </span>
 #### Toronto, ON • 06/2018 - 09/2018
 - Helped customers complete purchases, locate items and join reward programs to promote loyalty, satisfaction and sales numbers
 - Restocked, arranged and organized merchandise in front lanes to drive product sales
