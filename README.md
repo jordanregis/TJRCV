@@ -35,6 +35,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 - Experienced Programming in R
 - Statistical Analysis
 - Data Cleaning and Organization
+- Collaboration and Communication
 - Customer Service
 - Microsoft Office Tools
 
