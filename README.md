@@ -52,16 +52,16 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 <br><br>
 
 # <span style="color:steelblue"> EDUCATION </span>
-## Bachelor of Science — University of Toronto
+## <span style="color:lightskyblue"> Bachelor of Science — University of Toronto </span>
 #### 09/2018 - Current
 - Majoring in Economics and Statistics with a Minor in Mathematics
 
-## High School Diploma — Father John Redmond, CSS
+## <span style="color:lightskyblue"> High School Diploma — Father John Redmond, CSS </span>
 #### 09/2014 - 09/2018
 - Graduated with Honours
 <br><br>
 
-# <span style="color:steelblue"> **AWARDS** </span>
+# <span style="color:steelblue"> AWARDS </span>
 **University of Toronto Scholar’s Award**
 - Entrance Scholarship
 
