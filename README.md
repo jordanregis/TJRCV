@@ -35,14 +35,14 @@
 <br><br>
 
 # <span style="color:steelblue"> AWARDS </span>
-**University of Toronto Scholar’s Award**
-- Entrance Scholarship
+- **University of Toronto Scholar’s Award**
+  -  Entrance Scholarship
 
-**Reuben Wells Leonard Scholarship**
+- **Reuben Wells Leonard Scholarship**
 
-**Calculus AB Advanced Placement Certificate**
+- **Calculus AB Advanced Placement Certificate**
 
-**Grade 12 Data Management Subject Award**
+- **Grade 12 Data Management Subject Award**
 <br><br>
 
 ## <span style="color:darkmagenta"> PROJECTS </span>
