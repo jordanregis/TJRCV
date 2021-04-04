@@ -1,6 +1,3 @@
-
-
-
 # <span style="color:steelblue"> About Me </span>
 
   Highly motivated student with strong work ethic and ability to excel in a rapidly changing environment. Exceptional organizational and communication skills and experienced in improving processes. Thorough analytical and computational background with an enthusiasm for data exploration and creating reports.
@@ -15,7 +12,7 @@
 - Microsoft Office Tools
 
 # <span style="color:steelblue"> WORK HISTORY </span>
-## <span style="colorlightyskyblue"> Scholar's Choice - Sales Associate </span>
+## <span style="color:lightskyblue"> Scholar's Choice - Sales Associate </span>
 #### Toronto, ON • 06/2019 - 06/2020
 - Assisted over 25 customers per day with product questions, selections, and made specific recommendations aligning with individual needs and specifications
 - Maintained records related to sales, returns and inventory availability
