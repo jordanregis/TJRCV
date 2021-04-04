@@ -15,12 +15,12 @@
 - Microsoft Office Tools
 
 # <span style="color:steelblue"> WORK HISTORY </span>
-## <span style="color:dayskyblue"> Scholar's Choice - Sales Associate </span>
+## <span style="colorlightyskyblue"> Scholar's Choice - Sales Associate </span>
 #### Toronto, ON • 06/2019 - 06/2020
 - Assisted over 25 customers per day with product questions, selections, and made specific recommendations aligning with individual needs and specifications
 - Maintained records related to sales, returns and inventory availability
 
-## <span style="color:dayskyblue"> Shoppers Drug Mart / Pharmaprix - Cashier and Merchandiser </span>
+## <span style="color:lightskyblue"> Shoppers Drug Mart / Pharmaprix - Cashier and Merchandiser </span>
 #### Toronto, ON • 06/2018 - 09/2018
 - Helped customers complete purchases, locate items and join reward programs to promote loyalty, satisfaction and sales numbers
 - Restocked, arranged and organized merchandise in front lanes to drive product sales
