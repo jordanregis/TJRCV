@@ -6,10 +6,11 @@
 - Experienced Programming in R    
 - Statistical Analysis            
 - GitHub and HTML Writing
+- Microsoft Office Tools
 - Data Cleaning and Organization
 - Collaboration and Communication
 - Customer Service
-- Microsoft Office Tools
+
 
 # <span style="color:steelblue"> WORK HISTORY </span>
 ## <span style="color:lightskyblue"> Scholar's Choice - Sales Associate </span>
@@ -30,7 +31,7 @@
 - Majoring in Economics and Statistics with a Minor in Mathematics
 
 ## <span style="color:lightskyblue"> High School Diploma — Father John Redmond, CSS </span>
-#### 09/2014 - 09/2018
+#### 09/2014 - 06/2018
 - Graduated with Honours
 <br><br>
 
