@@ -29,6 +29,7 @@
 ## <span style="color:lightskyblue"> Bachelor of Science — University of Toronto </span>
 #### 09/2018 - Current
 - Majoring in Economics and Statistics with a Minor in Mathematics
+- 3.51 CGPA
 
 ## <span style="color:lightskyblue"> High School Diploma — Father John Redmond, CSS </span>
 #### 09/2014 - 06/2018
